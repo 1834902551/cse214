@@ -20,55 +20,52 @@
             
 ```
 
-### [3.Scan values from user into an array until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-while(1)
+### [3.Scan values from user until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
+```javacript
+ while(1)
     {
         int t;
         scanf(%d", &t);
         if(t == 0)
             break;
-        a[i++] = t;
+            a[i++] = t;
         
 ```
 
 
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-
+### [4.Print each element in newline: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
+```javascript
+for(i=0;i<x;i++)
+    {
+        printf("%d\n", a[i]);
+    }
+    
 ```
 
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-
+### [5.Print each element separated by space: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
+```javascript
+for(i=0;i<size;i++)
+    {
+        printf("%d ",a[i]);
+    }
+    
 ```
 
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-
+### [6.Print each element separated by comma : ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
+```javacript
+ for(i=0;i<size;i++)
+    {
+        printf(" %d,", a[i]);
+    }
+    
 ```
 
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-
+### [7.Print each elements in reverse order. : ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
+```javascript
+for(i=size-1;i>=0;i--)
+    {
+        printf("%d  ", a[i]);
+    }
 ```
 
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
 
-```
-
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-
-```
-
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-
-```
-
-### [: ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacreipt
-
-```
