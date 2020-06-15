@@ -3,6 +3,8 @@
 - Array Declaretion
 - Array Initializetion
 - Array Access
-- Array I/O
+- Array Input & output
+
+## [Part-2](https://github.com/1834902551/cse214/tree/master/Lab1)
 
 
