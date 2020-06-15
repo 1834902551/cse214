@@ -6,11 +6,13 @@
 - Array Access
 - Array Input & output
 
+
 ## [Problem Set-2](https://github.com/1834902551/cse214/tree/master/Lab2)
 - Array Declaretion
 - Array Update
 - Array Search
 - Array Delete
+
 
 ## [Problem Set-3](https://github.com/1834902551/cse214/tree/master/Lab3)
 - Maximum
@@ -19,6 +21,7 @@
 - Average
 - Standard Deviation
 - Fibonacci Number
+
 
 ## [Problem Set-4](https://github.com/1834902551/cse214/tree/master/Lab4)
 - Array Copy
@@ -29,6 +32,7 @@
 - Array Delete
 - Array Spilt
 - Cyclically Permute
+
 
 ## [Problem Set-5](https://github.com/1834902551/cse214/tree/master/Lab5)
 ### Array Operation Using Pointer:
