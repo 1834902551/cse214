@@ -25,6 +25,8 @@
 - Array Reverse
 - Array Compare
 - Array Merge
+- Array insert
+- Array Delete
 - Array Spilt
 - Cyclically Permute
 
@@ -42,5 +44,6 @@
 - Merge by Sorting
 - Summation
 - Split
+- Insert
 - Updating Index
 - Cycally Permute
