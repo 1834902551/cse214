@@ -52,7 +52,7 @@ for(i=0;i<size;i++)
 ```
 
 ### [6.Print each element separated by comma : ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacript
+```javascript
  for(i=0;i<size;i++)
     {
         printf(" %d,", a[i]);
