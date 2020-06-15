@@ -58,7 +58,7 @@ printf("\nValue= ");
         printf("%d ", a[i]);
 ```
 
-### [5.Update fifth (5th) index with another value. And print the whole array. ] (https://github.com/1834902551/cse214/blob/master/Lab2/5.c)
+### [5.Update fifth (5th) index with another value. And print the whole array. ](https://github.com/1834902551/cse214/blob/master/Lab2/5.c)
 ```javascript
 for (i=0; i==index; i++)
         a[i] = a[i - 1];
