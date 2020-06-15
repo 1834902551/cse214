@@ -11,6 +11,7 @@ int a[10];
   ```  
     
 ## [2.Scan values from user until end of file: ](https://github.com/1834902551/cse214/blob/master/Lab1/2.c)
+
 ```javacreipt
 int a[10];
     int i = 0;
