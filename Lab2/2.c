@@ -15,7 +15,6 @@ int main()
     printf("\nValue= ");
 
     scanf("%d",&X);
-
     a[9] = X;
 
     for(i=0;i<size;i++)
