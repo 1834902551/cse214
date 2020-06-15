@@ -1,4 +1,4 @@
-### [1.Insert any value at tenth (10th) index of the array.And print the whole array. ](https://github.com/1834902551/cse214/blob/master/Lab2/1.c)
+#### [1.Insert any value at tenth (10th) index of the array.And print the whole array. ](https://github.com/1834902551/cse214/blob/master/Lab2/1.c)
 ```javascript
 printf("\nValue=11\n");
 
@@ -10,7 +10,7 @@ printf("\nValue=11\n");
     }
 ```
 
-### [2.Insert a value “X” (take input X from user) in the array at the end of currently stored elements. ](https://github.com/1834902551/cse214/blob/master/Lab2/2.c)
+#### [2.Insert a value “X” (take input X from user) in the array at the end of currently stored elements. ](https://github.com/1834902551/cse214/blob/master/Lab2/2.c)
 ```javascript
  printf("\nValue= ");
 
@@ -23,7 +23,7 @@ printf("\nValue=11\n");
     }
 ```
 
-### [3.Insert a value “X” (take input X from user) in the array at third (3rd) index and shift all other value to right. And print the whole array ](https://github.com/1834902551/cse214/blob/master/Lab2/3.c)
+#### [3.Insert a value “X” (take input X from user) in the array at third (3rd) index and shift all other value to right. And print the whole array ](https://github.com/1834902551/cse214/blob/master/Lab2/3.c)
 ```javascript
 scanf("%d", &X);
 
@@ -39,7 +39,7 @@ scanf("%d", &X);
         
 ```
 
-### [4.Insert a value “X” (take input X from user) in the array at Kth (take input K from user) index and shift all other value to right. And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/4.c)
+#### [4.Insert a value “X” (take input X from user) in the array at Kth (take input K from user) index and shift all other value to right. And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/4.c)
 ```javascript
 printf("\nValue= ");
     scanf("%d", &X);
@@ -58,7 +58,7 @@ printf("\nValue= ");
         printf("%d ", a[i]);
 ```
 
-### [5.Update fifth (5th) index with another value. And print the whole array. ](https://github.com/1834902551/cse214/blob/master/Lab2/5.c)
+#### [5.Update fifth (5th) index with another value. And print the whole array. ](https://github.com/1834902551/cse214/blob/master/Lab2/5.c)
 ```javascript
 for (i=0; i==index; i++)
         a[i] = a[i - 1];
@@ -69,7 +69,7 @@ for (i=0; i==index; i++)
         printf("%d ", a[i]);
 ```
 
-### [6.Update Kth (take input K from user) index with the value “X” (take input X from user). And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/6.c)
+#### [6.Update Kth (take input K from user) index with the value “X” (take input X from user). And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/6.c)
 ```javascript
  printf("\nIndex: ");
 
@@ -89,7 +89,7 @@ for (i=0; i==index; i++)
     }
 ```
 
-### [7.Search a value “X” (take input X from user) in the array and print “Found” if X found in the array otherwise print “Not Found”: ](https://github.com/1834902551/cse214/blob/master/Lab2/7.c)
+#### [7.Search a value “X” (take input X from user) in the array and print “Found” if X found in the array otherwise print “Not Found”: ](https://github.com/1834902551/cse214/blob/master/Lab2/7.c)
 ```javascript
 for (i=0; i<size; i++)
     {
@@ -103,7 +103,7 @@ for (i=0; i<size; i++)
         printf("Not Found");
 ```
 
-### [8.Search a value “X” (take input X from user) in the array and print the index if X found in the array otherwise print -1: ](https://github.com/1834902551/cse214/blob/master/Lab2/8.c)
+#### [8.Search a value “X” (take input X from user) in the array and print the index if X found in the array otherwise print -1: ](https://github.com/1834902551/cse214/blob/master/Lab2/8.c)
 ```javascript
 for (i=0; i<size; i++)
     {
@@ -118,7 +118,7 @@ for (i=0; i<size; i++)
 
 ```
 
-### [9.Delete a value from Kth index (take input K from user) from the array shift all other value to left. And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/9.c)
+#### [9.Delete a value from Kth index (take input K from user) from the array shift all other value to left. And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/9.c)
 ```javascript
 for (i=K; i<size; i++)
         a[i] = a[i+1];
@@ -130,7 +130,7 @@ for (i=K; i<size; i++)
 
 ```
 
-### [10.Delete a value “X” (take input X from user) from the array shift all other value to left. If “X” is not present in the given array print Element Not Found. Only delete the first occurrence of the value. And print the whole array : ](https://github.com/1834902551/cse214/blob/master/Lab2/10.c)
+#### [10.Delete a value “X” (take input X from user) from the array shift all other value to left. If “X” is not present in the given array print Element Not Found. Only delete the first occurrence of the value. And print the whole array : ](https://github.com/1834902551/cse214/blob/master/Lab2/10.c)
 ```javascript
  if(search!=1)
     {
@@ -143,7 +143,7 @@ for (i=K; i<size; i++)
     }
 ```
 
-### [11. Delete a value “X” (take input X from user) from the array shift all other value to left. If “X” is not present in the given array print Element Not Found. Delete all the occurrence of the value. And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/11.c)
+#### [11. Delete a value “X” (take input X from user) from the array shift all other value to left. If “X” is not present in the given array print Element Not Found. Delete all the occurrence of the value. And print the whole array: ](https://github.com/1834902551/cse214/blob/master/Lab2/11.c)
 ```javascript
    if(tag==0)
     {
