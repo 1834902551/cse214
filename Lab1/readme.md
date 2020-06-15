@@ -21,7 +21,7 @@
 ```
 
 ### [3.Scan values from user until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
-```javacript
+```javascript
  while(1)
     {
         int t;
