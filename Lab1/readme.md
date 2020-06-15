@@ -9,7 +9,7 @@
     
 ### [2.Scan values from user until end of file: ](https://github.com/1834902551/cse214/blob/master/Lab1/2.c)
 
-```html
+```javascript
     while(scanf("%d",&a[i]) != EOF)
     
         i++;
@@ -17,6 +17,7 @@
         
             printf("\n Overflow");
             break;
+            
 ```
 
 ### [3.Scan values from user into an array until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
