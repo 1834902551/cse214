@@ -1,4 +1,4 @@
-## [Array Elements Insertion (User Input)](https://github.com/1834902551/cse214/blob/master/Lab1/1.c)
+## [Scan N values from user: ](https://github.com/1834902551/cse214/blob/master/Lab1/1.c)
 
 ```html
 /*for ( initialize ; condition; increment ) {
