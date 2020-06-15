@@ -22,7 +22,14 @@
 
 ### [3.Scan values from user into an array until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
 ```javacreipt
-
+while(1)
+    {
+        int t;
+        scanf(%d", &t);
+        if(t == 0)
+            break;
+        a[i++] = t;
+        
 ```
 
 
