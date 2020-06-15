@@ -6,7 +6,7 @@
 - Array Input & output
 
 ## [Problem Set-2](https://github.com/1834902551/cse214/tree/master/Lab2)
-*Array Declaretion
+  -Array Declaretion
 Array Update
 Array Search
 Array Delete
