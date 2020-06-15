@@ -1,6 +1,6 @@
 ### [1.Scan N values from user: ](https://github.com/1834902551/cse214/blob/master/Lab1/1.c)
 
-```html
+```javascript
 int a[10];
     int n,i;
 
@@ -13,4 +13,4 @@ int a[10];
 ## [2.Scan values from user until end of file: ](https://github.com/1834902551/cse214/blob/master/Lab1/2.c)
 
 
-##
+##[3.Scan values from user into an array until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
