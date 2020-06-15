@@ -7,7 +7,7 @@
 
   ```  
     
-### [2.Scan values from user until end of file: ](https://github.com/1834902551/cse214/blob/master/Lab1/2.c)
+#### [2.Scan values from user until end of file: ](https://github.com/1834902551/cse214/blob/master/Lab1/2.c)
 
 ```javascript
     while(scanf("%d",&a[i]) != EOF)
@@ -20,7 +20,7 @@
             
 ```
 
-### [3.Scan values from user until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
+#### [3.Scan values from user until user input is 0 (Zero): ](https://github.com/1834902551/cse214/blob/master/Lab1/3.c)
 ```javascript
  while(1)
     {
@@ -33,7 +33,7 @@
 ```
 
 
-### [4.Print each element in newline: ](https://github.com/1834902551/cse214/blob/master/Lab1/4.c)
+#### [4.Print each element in newline: ](https://github.com/1834902551/cse214/blob/master/Lab1/4.c)
 ```javascript
 for(i=0;i<x;i++)
     {
@@ -42,7 +42,7 @@ for(i=0;i<x;i++)
     
 ```
 
-### [5.Print each element separated by space: ](https://github.com/1834902551/cse214/blob/master/Lab1/5.c)
+#### [5.Print each element separated by space: ](https://github.com/1834902551/cse214/blob/master/Lab1/5.c)
 ```javascript
 for(i=0;i<size;i++)
     {
@@ -51,7 +51,7 @@ for(i=0;i<size;i++)
     
 ```
 
-### [6.Print each element separated by comma : ](https://github.com/1834902551/cse214/blob/master/Lab1/6.c)
+#### [6.Print each element separated by comma : ](https://github.com/1834902551/cse214/blob/master/Lab1/6.c)
 ```javascript
  for(i=0;i<size;i++)
     {
@@ -60,7 +60,7 @@ for(i=0;i<size;i++)
     
 ```
 
-### [7.Print each elements in reverse order. : ](https://github.com/1834902551/cse214/blob/master/Lab1/7.c)
+#### [7.Print each elements in reverse order. : ](https://github.com/1834902551/cse214/blob/master/Lab1/7.c)
 ```javascript
 for(i=size-1;i>=0;i--)
     {
