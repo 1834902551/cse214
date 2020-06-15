@@ -1,4 +1,4 @@
-### [1.Scan N values from user: ](https://github.com/1834902551/cse214/blob/master/Lab1/1.c)
+#### [1.Scan N values from user: ](https://github.com/1834902551/cse214/blob/master/Lab1/1.c)
 
 ```javascript
     scanf("%d",&n);
