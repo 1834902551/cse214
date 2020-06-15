@@ -1,9 +1,6 @@
 ### [1.Scan N values from user: ](https://github.com/1834902551/cse214/blob/master/Lab1/1.c)
 
 ```javascript
-int a[10];
-    int n,i;
-
     scanf("%d",&n);
     for(i=0;i<n;i++)
         scanf("%d",&a[i]);
@@ -13,8 +10,6 @@ int a[10];
 ### [2.Scan values from user until end of file: ](https://github.com/1834902551/cse214/blob/master/Lab1/2.c)
 
 ```javacreipt
-int a[10];
-    int i = 0;
     while(scanf("%d",&a[i]) != EOF)
     
         i++;
