@@ -29,18 +29,18 @@
 - Cyclically Permute
 
 ## [Problem Set-5](https://github.com/1834902551/cse214/tree/master/Lab5)
-- Array Operation Using Pointer 
-Array Declaration
-Array Initialization
-Array Accessing
-Array I/O
-Merge
-Compare
-Reverse
-Maximum
-Minimum
-Merge by Sorting
-Summation
-Split
-Updating Index
-Cycally Permute
+### Array Operation Using Pointer 
+- Array Declaration
+- Array Initialization
+- Array Accessing
+- Array I/O
+- Merge
+- Compare
+- Reverse
+- Maximum
+- Minimum
+- Merge by Sorting
+- Summation
+- Split
+- Updating Index
+- Cycally Permute
