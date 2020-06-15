@@ -11,9 +11,9 @@ for(p = 0; p<memory; p++)
     {
         scanf("%d ",&array[p]);
     }
-    ```
+    ```javascript 
     
-Print The Array Elements
+## [Print The Array Elements]
 /*for ( initialize ; condition; increment ) {
    printf statement(s);
 }*/
