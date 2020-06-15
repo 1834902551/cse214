@@ -9,7 +9,7 @@
     
 ### [2.Scan values from user until end of file: ](https://github.com/1834902551/cse214/blob/master/Lab1/2.c)
 
-```javacreipt
+```html
     while(scanf("%d",&a[i]) != EOF)
     
         i++;
