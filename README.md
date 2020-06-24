@@ -51,3 +51,23 @@
 - Insert
 - Updating Index
 - Cycally Permute
+
+## [Problem Set-6](https://github.com/1834902551/cse214/tree/master/Lab6)
+### Linked List Basic Operations [Single Way(Singly)Linked list]:
+- Linked list Create
+- Linked list Decleration
+- Linked list Initialization
+- Linked list Access
+- Linked list Traverse
+- Linked list Output
+
+## [Problem Set-7](https://github.com/1834902551/cse214/tree/master/Lab7)
+### Linked List Basic Operations [Single Way(Singly)Linked list]:
+- Linked list Create
+- check Empty
+- check Size
+- check Front
+- check Back
+- Search value
+- Reverse list
+- Merge list
