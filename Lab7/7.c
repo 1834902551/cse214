@@ -1,3 +1,6 @@
+/*Define a function to reverse the Linked List.(Don't use recursion)
+Display both List before and after reversing.*/ 
+
 #include<stdio.h>
 #include<stdlib.h>
 
