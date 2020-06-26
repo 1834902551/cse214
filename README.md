@@ -71,3 +71,19 @@
 - Search value
 - Reverse list
 - Merge list
+
+## [Problem Set-8](https://github.com/1834902551/cse214/tree/master/Lab8)
+### Linked List Delete(pop) Operations [Single Way(Singly)Linked List]
+- Delete Back
+- Delete Front
+- Delete Value
+- Delete At
+- Delete All/Clear
+
+## [Problem Set-9](https://github.com/1834902551/cse214/tree/master/Lab9)
+### Linked List Insert(push) Operations [Single Way(Singly)Linked List]
+- Insert Front
+- Insert Back
+- Insert At
+- Insert Before
+- Insert After
