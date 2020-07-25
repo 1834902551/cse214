@@ -1,7 +1,7 @@
 ## DOUBLE WAY NON-CIRCULAR LINKED LIST
 
 
-#### INTRODUCTION:
+### INTRODUCTION:
 
 *A doubly linked list is a data structure that consists of a set of sequentially linked records called nodes. A doubly linked list contains an extra pointer, typically called previous, together with the next pointer and data. A doubly list can be circular or non-circular. In non-circular doubly linked list, the head previous and the last next both will always points to the NULL. This list can be traversed in both direction.
 Here I implemented some following functions for non-circular doubly linked list:
@@ -18,7 +18,7 @@ Here I implemented some following functions for non-circular doubly linked list:
 10. Pop Back ()
 11. Clear ()*
 
-#### USES:
+### USES:
 
 ###### *Doubly linked list is one of the important data structures. Here some applications of doubly linked list is given below:-
 
@@ -27,9 +27,9 @@ Here I implemented some following functions for non-circular doubly linked list:
 3. It is used by browsers to implement back and forward button for visited web pages.
 4. It is used for Undo-Redo functionality in MS Word or Photoshop.*
 
-#### CODE:
+### CODE:
 
-##### Display Function:
+#### Display Function:
 
 ```javascript
 void display(node *temp)
@@ -49,7 +49,7 @@ void display(node *temp)
 }
 ```
 
-##### Push Front Function:
+#### Push Front Function:
 
 ```javascript
 void push_front()
@@ -93,7 +93,7 @@ void push_front()
 }
 ```
 
-##### Push Back Function:
+#### Push Back Function:
 
 ```javascript
 
@@ -140,7 +140,7 @@ void push_back()
 }
 ```
 
-##### Pop Front Function:
+#### Pop Front Function:
 
 ```javascript
 
@@ -178,7 +178,7 @@ void pop_front()
 }
 ```
 
-##### Pop Back Function:
+#### Pop Back Function:
 
 ```javascript
 void pop_back()
@@ -217,7 +217,7 @@ void pop_back()
 }
 ```
 
-##### Empty Function:
+#### Empty Function:
 
 ```javascript
 
@@ -231,7 +231,7 @@ else
 }
 ```
 
-##### Size Function:
+#### Size Function:
 
 ```javascript
 void size(node *temp){
@@ -244,7 +244,7 @@ while(temp!=NULL){
 printf("Size:%d\n",count);
 }
 ```
-##### *Delete Full List Function:
+#### *Delete Full List Function:
 
 ```javascript
 void clear(){
@@ -257,7 +257,7 @@ while(temp!=NULL){
 }
 }
 ```
-##### Front Function:
+#### Front Function:
 
 ```javascript
 
@@ -272,7 +272,7 @@ else
     printf("LIST EMPTY\n");
 }
 ```
-##### Back Function:
+#### Back Function:
 
 ```javascript
 int back(node *temp){
