@@ -28,7 +28,7 @@ void array_scan_print(int arr[])
     }
     for(i=0;i<=100;i++)
     {
-        printf("%d", arr[i]);
+        printf("%d ", arr[i]);
     }
 
 }
