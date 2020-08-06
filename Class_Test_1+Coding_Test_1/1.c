@@ -1,3 +1,7 @@
+/*Write a C program that declare an integer array length of one hundred(100)(do not initialize the array).
+Scan values from user into an array until user input is 0(zero).Print entire array each element separated
+by comma. Check OverFlow. Use Function and Don't user pointer.*/
+
 #include<stdio.h>
 void array_scan_print(int arr[]);
 int main(){
