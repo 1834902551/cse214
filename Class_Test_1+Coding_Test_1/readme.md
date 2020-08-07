@@ -1,8 +1,6 @@
 # Class Test 1
 
- ### 1. Write a C program that declare an integer array length of one hundred(100)(do not initialize the array).
-Scan values from user into an array until user input is 0(zero).Print entire array each element separated
-by comma. Check OverFlow. Use Function and Don't user pointer.
+ ### 1. Write a C program that declare an integer array length of one hundred(100)(do not initialize the array). Scan values from user into an array until user input is 0(zero).Print entire array each element separated by Space. Check OverFlow. Use Function and Don't user pointer.
 
 # Coding Test 1
 
